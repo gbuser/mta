@@ -1,7 +1,9 @@
 # Working version.
 
 Requires 2 files:
+
 mta.py is the application
+
 gtfs_realtime_pb2.py is the compiled .proto file
 
 # to do:
